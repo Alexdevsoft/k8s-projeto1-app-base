@@ -51,7 +51,7 @@ Este projeto é uma aplicação simples em PHP que permite o envio de nome, e-ma
 ```bash
 git clone https://github.com/Alexdevsoft/k8s-projeto1-app-base/tree/docker-support.git
 cd seu-repositorio/backend
-
+```
 ## Suba os containers com Docker
 
 ```bash
